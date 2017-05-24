@@ -1,11 +1,11 @@
-*{
+/* *{
 margin:0 auto;
 -webkit-padding-start:0;
 -webkit-margin-start:0;
 transition: all .1s ease-in;
 user-select: none;
 
-}
+} */
 
 body{
 	font-family: “Trebuchet MS”, Trebuchet, Arial, sans-serif;
